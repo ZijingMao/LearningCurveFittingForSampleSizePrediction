@@ -1,0 +1,14 @@
+Predicting EEG Sample Size Required for Classification Calibration
+===========================================
+
+Running the demo:
+
+0. open Matlab
+
+1. load the ./Resource/RSVPDemoDataSubID01.mat for demo data input
+
+2. run file ./LearningCurve.m
+
+3. select variable x and y as the demo input and label
+
+4. click FitCurve button.
